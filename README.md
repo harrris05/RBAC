@@ -24,10 +24,6 @@ The project is built using **React** and **Bootstrap** for styling, with a focus
     - Mock API calls for CRUD operations on users and roles.
     - Simulated server responses to validate functionality.
 
-## **Live Project**
-
-- **Frontend (UI)**: [Role-Based Access Control (RBAC) UI - Live](https://role-based-access-control-rbac-ui-o0fe.onrender.com)
-- **Backend (API)**: [Backend API - Live](https://assignment-role-based-access-control.onrender.com)
 
 ## **Technologies Used**
 
