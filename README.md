@@ -138,9 +138,6 @@ rbac-ui/
 - Add more advanced features like role inheritance, logging, and audit trails.
 - Improve security with better authentication and authorization practices.
 
-![Screenshot (92)](https://github.com/user-attachments/assets/a4f0ca65-5308-4c0f-857f-eacd7a9be952)
-![Screenshot (93)](https://github.com/user-attachments/assets/83086881-7e62-4f6b-9e22-ae3d136efa3a)
-![Screenshot (94)](https://github.com/user-attachments/assets/6e03ef2f-bb2e-4b40-a63f-9835ec56af14)
-![Screenshot (95)](https://github.com/user-attachments/assets/74325e46-8009-4775-b7b0-eb39b0b0f578)
+
 
 
